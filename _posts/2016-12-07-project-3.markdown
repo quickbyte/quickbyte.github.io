@@ -1,0 +1,11 @@
+---
+title: Golden
+subtitle: Website Design
+layout: default
+modal-id: 3
+date: 2016-12-7
+img: golden.png
+thumbnail: golden-thumbnail.png
+alt: image-golden
+project-date: December 2016
+---

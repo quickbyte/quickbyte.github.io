@@ -1,0 +1,12 @@
+---
+title: Dreams
+subtitle: Website Design
+layout: default
+modal-id: 1
+date: 2016-12-18
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: image-dreams
+project-date: December 2016
+
+---

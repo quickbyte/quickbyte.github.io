@@ -1,12 +1,12 @@
 ---
-title: Dreams
+title: Stbarnabas Church
 subtitle: Website Design
 layout: default
 modal-id: 1
 date: 2016-12-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
-alt: image-dreams
-project-date: December 2016
+img: stbarnabas.png
+thumbnail: stbarnabas-thumbnail.png
+alt: image-stbarnabas
+project-date: December 2017
 
 ---
